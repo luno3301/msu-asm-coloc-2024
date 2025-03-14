@@ -1,6 +1,6 @@
-# (1)find_eax    X
-# (2)BitOps      X
-# (3)Decompile   X
-# (4)Decompile   X
-# (5)Expressions X
-# (6)Struct      X
+# (1)find_eax(0/2)
+# (2)BitOps(0/2)
+# (3)Decompile(0/2)
+# (4)Decompile(0/2)
+# (5)Expressions(0/2)
+# (6)Struct(0/2)
