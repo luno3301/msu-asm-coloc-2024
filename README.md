@@ -1,6 +1,1 @@
-# (1)find_eax(2/2)
-# (2)BitOps(2/2)
-# (3)Decompile(2/2)
-# (4)Decompile(2/2)
-# (5)Expressions(2/2)
-# (6)Struct(2/2)
+Need to initilize exam data!
